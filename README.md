@@ -9,7 +9,7 @@ exemple <sup>indice<sup>
 >
 ``` exemple de code```
 - item
-_ item
+* item
 + item
 1. item 1
 2. item 2
