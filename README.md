@@ -1,8 +1,15 @@
 # Titre
 ## Sous-titre
-### Sous-titre
-** en gras ** ou __ aussi en gras __
-* italique * ou _ encore italique _
+### Sous-sous-titre
+**en gras** ou __aussi en gras__
+*italique* ou _encore italique_
+~~ne pas faire~~
+exemple <sup>indice<sup>
+>citation
+``` exemple de code```
+-item
+_item
++item
 
 La documentation est primordiale pour tout projet informatique et encore plus quand on utilise un git
 Ainsi sur tous les git vous allez avoir un fichier qui est primordial encore plus quand vous laissez votre application libre d'utilisation 
@@ -22,7 +29,6 @@ pour pouvoir mettre du texte en italique vous allez utiliser la simple étoile o
 pour pouvoir mettre du texte barré vous allez utiliser les doubles tild
  texte Barré est très important c'est le texte erroné ça va permettre d'indiquer ce qu'il ne faut pas faire par exemple 
 on peut mettre du texte en indice avec la balise sup
-on peut mettre du super script avec sup 
 vous pouvez faire des citations grâce au chevron fermant, le signe supérieur,
 Pour insérer du code vous utilisez les triple backquotes
 Vous pouvez intégrer des listes non ordonnées, sans numéro d’item ou ordonné
